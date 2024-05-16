@@ -2,6 +2,12 @@
 
 Aplicação que demonstra informações de países!!
 
+## Recursos
+
+Utiliza a função _fetch_ para obter dados da API:
+
+* <https://restcountries.com>
+
 ## Para fazer:
 
 1. Adicionar demais ordenação

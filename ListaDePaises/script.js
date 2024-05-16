@@ -44,7 +44,10 @@ function ordenar(lista, ordernarPor) {
   }
   // TODO: Adicionar demais ordenações 
   /** ... */
+
+  return lista;
 }
+
 /**
  * Add item na tela
  * @param object pais  
